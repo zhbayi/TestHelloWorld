@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestHelloWorld</string>
+    <string name="hidl_test">test</string>
+</resources>
